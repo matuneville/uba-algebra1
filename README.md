@@ -15,6 +15,10 @@ Repo con prácticas subidas, teóricas y resueltos de taller, y sus TPs
 - Clase 9: [Teórica](https://github.com/matuneville/uba-algebra1/blob/main/Taller/Consignas/clase09.pdf) y [resolución](https://github.com/matuneville/uba-algebra1/blob/main/Taller/Resueltos/Clase9.hs)
 - Clase 10: [Teórica](https://github.com/matuneville/uba-algebra1/blob/main/Taller/Consignas/clase10.pdf) y [resolución](https://github.com/matuneville/uba-algebra1/blob/main/Taller/Resueltos/Clase10.hs)
 
+## Trabajos prácticos de taller
+- TP 1: [Conjetura de Collatz](https://github.com/matuneville/uba-algebra1/tree/main/Taller/TP1)
+- TP 2: [Polinomios](https://github.com/matuneville/uba-algebra1/tree/main/Taller/TP2)
+
 ## Prácticas
 - Guía 1: [Conjuntos, relaciones y funciones](https://github.com/matuneville/uba-algebra1/blob/main/Practicas/Practica1.pdf)
 - Guía 2: [Inducción y numeros naturales](https://github.com/matuneville/uba-algebra1/blob/main/Practicas/Practica2.pdf)
