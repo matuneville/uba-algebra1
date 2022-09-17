@@ -1,6 +1,6 @@
 # Algebra I
 2022 - 1° Cuatrimestre  
-Repo con prácticas subidas, teóricas y resueltos de taller, y sus TPs
+Repo con prácticas, teóricas y resueltos de taller, y sus TPs
 
 ## Taller
 *Programación en Haskell*
