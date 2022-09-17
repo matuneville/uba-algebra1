@@ -2,7 +2,7 @@
 2022 - 1° Cuatrimestre  
 Repo con prácticas subidas, teóricas y resueltos de taller, y sus TPs
 
-##Taller
+## Taller
 *Programación en Haskell*
 - Clase 1: [Teórica](https://github.com/matuneville/uba-algebra1/blob/main/Taller/Consignas/clase01.pdf) y [resolución](https://github.com/matuneville/uba-algebra1/blob/main/Taller/Resueltos/Clase1.hs)
 - Clase 2: [Teórica](https://github.com/matuneville/uba-algebra1/blob/main/Taller/Consignas/clase02.pdf) y [resolución](https://github.com/matuneville/uba-algebra1/blob/main/Taller/Resueltos/Clase2.hs)
