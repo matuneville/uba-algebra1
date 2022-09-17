@@ -12,4 +12,14 @@ Repo con prácticas subidas, teóricas y resueltos de taller, y sus TPs
 - Clase 6: [Teórica](https://github.com/matuneville/uba-algebra1/blob/main/Taller/Consignas/clase06.pdf) y [resolución](https://github.com/matuneville/uba-algebra1/blob/main/Taller/Resueltos/Clase6.hs)
 - Clase 7: [Teórica](https://github.com/matuneville/uba-algebra1/blob/main/Taller/Consignas/clase07.pdf) y [resolución](https://github.com/matuneville/uba-algebra1/blob/main/Taller/Resueltos/Clase7.hs)
 - Clase 8: [Teórica](https://github.com/matuneville/uba-algebra1/blob/main/Taller/Consignas/clase08.pdf) y [resolución](https://github.com/matuneville/uba-algebra1/blob/main/Taller/Resueltos/Clase8.hs)
+- Clase 9: [Teórica](https://github.com/matuneville/uba-algebra1/blob/main/Taller/Consignas/clase09.pdf) y [resolución](https://github.com/matuneville/uba-algebra1/blob/main/Taller/Resueltos/Clase9.hs)
 - Clase 10: [Teórica](https://github.com/matuneville/uba-algebra1/blob/main/Taller/Consignas/clase10.pdf) y [resolución](https://github.com/matuneville/uba-algebra1/blob/main/Taller/Resueltos/Clase10.hs)
+
+## Prácticas
+- Guía 1: [Conjuntos, relaciones y funciones](https://github.com/matuneville/uba-algebra1/blob/main/Practicas/Practica1.pdf)
+- Guía 2: [Inducción y numeros naturales](https://github.com/matuneville/uba-algebra1/blob/main/Practicas/Practica2.pdf)
+- Guía 3: [Combinatoria de conjuntos, relaciones y funciones](https://github.com/matuneville/uba-algebra1/blob/main/Practicas/Practica3.pdf)
+- Guía 4: [Números enteros (parte 1)](https://github.com/matuneville/uba-algebra1/blob/main/Practicas/Practica4.pdf)
+- Guía 5: [Números enteros (parte 2)](https://github.com/matuneville/uba-algebra1/blob/main/Practicas/Practica5.pdf)
+- Guía 6: [Números complejos](https://github.com/matuneville/uba-algebra1/blob/main/Practicas/Practica6.pdf)
+- Guía 7: [Polinomios](https://github.com/matuneville/uba-algebra1/blob/main/Practicas/Practica7.pdf)
