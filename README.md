@@ -16,6 +16,7 @@ Repo con prácticas, teóricas y resueltos de taller, y sus TPs
 - Clase 10: [Teórica](https://github.com/matuneville/uba-algebra1/blob/main/Taller/Consignas/clase10.pdf) y [resolución](https://github.com/matuneville/uba-algebra1/blob/main/Taller/Resueltos/Clase10.hs)
 
 ## Trabajos prácticos de taller
+*Programación en Haskell*
 - TP 1: [Conjetura de Collatz](https://github.com/matuneville/uba-algebra1/tree/main/Taller/TP1)
 - TP 2: [Polinomios](https://github.com/matuneville/uba-algebra1/tree/main/Taller/TP2)
 
